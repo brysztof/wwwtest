@@ -1,0 +1,1160 @@
+Feb 06 17:48:16 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/ulHideShow with parameters array (  'module' => 'jQuery',  'action' => 'ulHideShow',)
+Feb 06 17:48:16 symfony [info] {myUser} Automatic user logout due to timeout
+Feb 06 17:48:16 symfony [info] {myUser} User is not authenticated
+Feb 06 17:48:17 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 17:48:17 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 17:48:17 symfony [info] {jqueryActions} Call "jqueryActions->executeUlHideShow()"
+Feb 06 17:48:17 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/ulHideShowSuccess.php"
+Feb 06 17:48:17 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 17:48:17 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 17:48:17 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 17:48:17 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 17:48:17 symfony [info] {sfWebDebugLogger} Configuration 493.12 ms (9)
+Feb 06 17:48:17 symfony [info] {sfWebDebugLogger} Factories 435.27 ms (1)
+Feb 06 17:48:17 symfony [info] {sfWebDebugLogger} Action "jQuery/ulHideShow" 0.22 ms (1)
+Feb 06 17:48:17 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/ulHideShow" 175.19 ms (1)
+Feb 06 17:48:17 symfony [info] {sfWebResponse} Send content (58030 o)
+Feb 06 17:52:28 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/ulHideShow with parameters array (  'module' => 'jQuery',  'action' => 'ulHideShow',)
+Feb 06 17:52:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 17:52:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 17:52:29 symfony [info] {jqueryActions} Call "jqueryActions->executeUlHideShow()"
+Feb 06 17:52:31 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/ulHideShowSuccess.php"
+Feb 06 17:52:31 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 17:52:31 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 17:52:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 17:52:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 17:52:31 symfony [info] {sfWebDebugLogger} Configuration 1109.97 ms (10)
+Feb 06 17:52:31 symfony [info] {sfWebDebugLogger} Factories 1796.85 ms (1)
+Feb 06 17:52:31 symfony [info] {sfWebDebugLogger} Action "jQuery/ulHideShow" 0.21 ms (1)
+Feb 06 17:52:31 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/ulHideShow" 1475.37 ms (1)
+Feb 06 17:52:31 symfony [info] {sfWebResponse} Send content (57316 o)
+Feb 06 18:29:06 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/ulHideShow with parameters array (  'module' => 'jQuery',  'action' => 'ulHideShow',)
+Feb 06 18:29:06 symfony [info] {myUser} Automatic user logout due to timeout
+Feb 06 18:29:06 symfony [info] {myUser} User is not authenticated
+Feb 06 18:29:06 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 18:29:06 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 18:29:06 symfony [info] {jqueryActions} Call "jqueryActions->executeUlHideShow()"
+Feb 06 18:29:07 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/ulHideShowSuccess.php"
+Feb 06 18:29:07 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:29:07 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:29:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 18:29:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 18:29:07 symfony [info] {sfWebDebugLogger} Configuration 76.38 ms (9)
+Feb 06 18:29:07 symfony [info] {sfWebDebugLogger} Factories 284.39 ms (1)
+Feb 06 18:29:07 symfony [info] {sfWebDebugLogger} Action "jQuery/ulHideShow" 0.21 ms (1)
+Feb 06 18:29:07 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/ulHideShow" 157.75 ms (1)
+Feb 06 18:29:07 symfony [info] {sfWebResponse} Send content (58234 o)
+Feb 06 18:29:25 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/ulHideShow with parameters array (  'module' => 'jQuery',  'action' => 'ulHideShow',)
+Feb 06 18:29:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 18:29:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 18:29:25 symfony [info] {jqueryActions} Call "jqueryActions->executeUlHideShow()"
+Feb 06 18:29:25 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/ulHideShowSuccess.php"
+Feb 06 18:29:25 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:29:25 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:29:25 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 18:29:25 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 18:29:25 symfony [info] {sfWebDebugLogger} Configuration 17.51 ms (9)
+Feb 06 18:29:25 symfony [info] {sfWebDebugLogger} Factories 86.00 ms (1)
+Feb 06 18:29:25 symfony [info] {sfWebDebugLogger} Action "jQuery/ulHideShow" 1.68 ms (1)
+Feb 06 18:29:25 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/ulHideShow" 36.47 ms (1)
+Feb 06 18:29:25 symfony [info] {sfWebResponse} Send content (57509 o)
+Feb 06 18:30:02 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/ulHideShow with parameters array (  'module' => 'jQuery',  'action' => 'ulHideShow',)
+Feb 06 18:30:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 18:30:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 18:30:02 symfony [info] {jqueryActions} Call "jqueryActions->executeUlHideShow()"
+Feb 06 18:30:02 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/ulHideShowSuccess.php"
+Feb 06 18:30:02 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:30:02 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:30:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 18:30:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 18:30:02 symfony [info] {sfWebDebugLogger} Configuration 18.66 ms (9)
+Feb 06 18:30:02 symfony [info] {sfWebDebugLogger} Factories 93.96 ms (1)
+Feb 06 18:30:02 symfony [info] {sfWebDebugLogger} Action "jQuery/ulHideShow" 0.20 ms (1)
+Feb 06 18:30:02 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/ulHideShow" 36.44 ms (1)
+Feb 06 18:30:02 symfony [info] {sfWebResponse} Send content (57510 o)
+Feb 06 18:40:08 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/ulHideShow with parameters array (  'module' => 'jQuery',  'action' => 'ulHideShow',)
+Feb 06 18:40:08 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 18:40:08 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 18:40:08 symfony [info] {jqueryActions} Call "jqueryActions->executeUlHideShow()"
+Feb 06 18:40:08 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/ulHideShowSuccess.php"
+Feb 06 18:40:09 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:40:09 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:40:09 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 18:40:09 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 18:40:09 symfony [info] {sfWebDebugLogger} Configuration 18.54 ms (9)
+Feb 06 18:40:09 symfony [info] {sfWebDebugLogger} Factories 115.72 ms (1)
+Feb 06 18:40:09 symfony [info] {sfWebDebugLogger} Action "jQuery/ulHideShow" 0.21 ms (1)
+Feb 06 18:40:09 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/ulHideShow" 40.12 ms (1)
+Feb 06 18:40:09 symfony [info] {sfWebResponse} Send content (57511 o)
+Feb 06 18:41:02 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/ulHideShow with parameters array (  'module' => 'jQuery',  'action' => 'ulHideShow',)
+Feb 06 18:41:02 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 18:41:02 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 18:41:02 symfony [info] {jqueryActions} Call "jqueryActions->executeUlHideShow()"
+Feb 06 18:41:02 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/ulHideShowSuccess.php"
+Feb 06 18:41:02 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:41:02 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:41:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 18:41:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 18:41:02 symfony [info] {sfWebDebugLogger} Configuration 34.05 ms (9)
+Feb 06 18:41:02 symfony [info] {sfWebDebugLogger} Factories 80.95 ms (1)
+Feb 06 18:41:02 symfony [info] {sfWebDebugLogger} Action "jQuery/ulHideShow" 0.22 ms (1)
+Feb 06 18:41:02 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/ulHideShow" 39.71 ms (1)
+Feb 06 18:41:02 symfony [info] {sfWebResponse} Send content (57511 o)
+Feb 06 18:43:24 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/ulHideShow with parameters array (  'module' => 'jQuery',  'action' => 'ulHideShow',)
+Feb 06 18:43:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 18:43:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 18:43:24 symfony [info] {jqueryActions} Call "jqueryActions->executeUlHideShow()"
+Feb 06 18:43:24 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/ulHideShowSuccess.php"
+Feb 06 18:43:24 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:43:24 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:43:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 18:43:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 18:43:24 symfony [info] {sfWebDebugLogger} Configuration 23.57 ms (9)
+Feb 06 18:43:24 symfony [info] {sfWebDebugLogger} Factories 122.94 ms (1)
+Feb 06 18:43:24 symfony [info] {sfWebDebugLogger} Action "jQuery/ulHideShow" 0.21 ms (1)
+Feb 06 18:43:24 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/ulHideShow" 39.75 ms (1)
+Feb 06 18:43:24 symfony [info] {sfWebResponse} Send content (57511 o)
+Feb 06 18:55:09 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 18:55:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 18:55:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 18:55:10 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 18:55:10 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 18:55:10 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:55:10 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:55:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 18:55:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 18:55:10 symfony [info] {sfWebDebugLogger} Configuration 137.20 ms (10)
+Feb 06 18:55:10 symfony [info] {sfWebDebugLogger} Factories 318.18 ms (1)
+Feb 06 18:55:10 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 06 18:55:10 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 100.72 ms (1)
+Feb 06 18:55:10 symfony [info] {sfWebResponse} Send content (29551 o)
+Feb 06 18:56:37 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 18:56:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 18:56:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 18:56:37 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 18:56:37 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 18:56:37 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:56:37 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:56:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 18:56:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 18:56:37 symfony [info] {sfWebDebugLogger} Configuration 71.05 ms (10)
+Feb 06 18:56:37 symfony [info] {sfWebDebugLogger} Factories 119.30 ms (1)
+Feb 06 18:56:37 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 06 18:56:37 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 83.59 ms (1)
+Feb 06 18:56:37 symfony [info] {sfWebResponse} Send content (29581 o)
+Feb 06 18:57:05 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 18:57:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 18:57:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 18:57:05 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 18:57:05 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 18:57:05 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:57:05 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:57:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 18:57:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 18:57:05 symfony [info] {sfWebDebugLogger} Configuration 61.09 ms (10)
+Feb 06 18:57:05 symfony [info] {sfWebDebugLogger} Factories 121.26 ms (1)
+Feb 06 18:57:05 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.20 ms (1)
+Feb 06 18:57:05 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 83.76 ms (1)
+Feb 06 18:57:05 symfony [info] {sfWebResponse} Send content (29581 o)
+Feb 06 18:57:26 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 18:57:27 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 18:57:27 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 18:57:27 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 18:57:27 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 18:57:27 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:57:27 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:57:27 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 18:57:27 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 18:57:27 symfony [info] {sfWebDebugLogger} Configuration 65.73 ms (10)
+Feb 06 18:57:27 symfony [info] {sfWebDebugLogger} Factories 151.56 ms (1)
+Feb 06 18:57:27 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.23 ms (1)
+Feb 06 18:57:27 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 97.77 ms (1)
+Feb 06 18:57:27 symfony [info] {sfWebResponse} Send content (29581 o)
+Feb 06 18:57:37 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/ulHideShow with parameters array (  'module' => 'jQuery',  'action' => 'ulHideShow',)
+Feb 06 18:57:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 18:57:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 18:57:37 symfony [info] {jqueryActions} Call "jqueryActions->executeUlHideShow()"
+Feb 06 18:57:37 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/ulHideShowSuccess.php"
+Feb 06 18:57:37 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:57:37 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 06 18:57:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 18:57:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 18:57:37 symfony [info] {sfWebDebugLogger} Configuration 58.92 ms (10)
+Feb 06 18:57:37 symfony [info] {sfWebDebugLogger} Factories 105.90 ms (1)
+Feb 06 18:57:37 symfony [info] {sfWebDebugLogger} Action "jQuery/ulHideShow" 0.21 ms (1)
+Feb 06 18:57:37 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/ulHideShow" 86.20 ms (1)
+Feb 06 18:57:37 symfony [info] {sfWebResponse} Send content (57481 o)
+Feb 06 19:01:50 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:01:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:01:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:01:50 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:01:50 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:01:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:01:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:01:50 symfony [info] {sfWebDebugLogger} Configuration 71.34 ms (10)
+Feb 06 19:01:50 symfony [info] {sfWebDebugLogger} Factories 118.29 ms (1)
+Feb 06 19:01:50 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.25 ms (1)
+Feb 06 19:01:50 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 86.21 ms (1)
+Feb 06 19:01:50 symfony [info] {sfWebResponse} Send content (28046 o)
+Feb 06 19:03:26 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:03:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:03:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:03:26 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:03:26 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:03:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:03:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:03:26 symfony [info] {sfWebDebugLogger} Configuration 32.01 ms (9)
+Feb 06 19:03:26 symfony [info] {sfWebDebugLogger} Factories 115.95 ms (1)
+Feb 06 19:03:26 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.28 ms (1)
+Feb 06 19:03:26 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 36.06 ms (1)
+Feb 06 19:03:26 symfony [info] {sfWebResponse} Send content (28335 o)
+Feb 06 19:03:28 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/image-1.jpg" (/).
+Feb 06 19:03:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 06 19:03:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:03:29 symfony [info] {sfWebDebugLogger} Configuration 28.25 ms (5)
+Feb 06 19:03:29 symfony [info] {sfWebDebugLogger} Factories 172.81 ms (1)
+Feb 06 19:03:42 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/image-2.jpg" (/).
+Feb 06 19:03:42 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 06 19:03:42 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:03:42 symfony [info] {sfWebDebugLogger} Configuration 12.21 ms (5)
+Feb 06 19:03:42 symfony [info] {sfWebDebugLogger} Factories 76.90 ms (1)
+Feb 06 19:03:55 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/image-2.jpg" (/).
+Feb 06 19:03:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 06 19:03:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:03:55 symfony [info] {sfWebDebugLogger} Configuration 12.57 ms (5)
+Feb 06 19:03:55 symfony [info] {sfWebDebugLogger} Factories 75.31 ms (1)
+Feb 06 19:05:45 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:05:45 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:05:45 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:05:45 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:05:45 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:05:45 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:05:45 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:05:45 symfony [info] {sfWebDebugLogger} Configuration 22.23 ms (9)
+Feb 06 19:05:45 symfony [info] {sfWebDebugLogger} Factories 117.80 ms (1)
+Feb 06 19:05:45 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 06 19:05:45 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 31.58 ms (1)
+Feb 06 19:05:45 symfony [info] {sfWebResponse} Send content (18440 o)
+Feb 06 19:05:52 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/image-1.jpg" (/).
+Feb 06 19:05:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 06 19:05:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:05:53 symfony [info] {sfWebDebugLogger} Configuration 12.87 ms (5)
+Feb 06 19:05:53 symfony [info] {sfWebDebugLogger} Factories 85.48 ms (1)
+Feb 06 19:05:55 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:05:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:05:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:05:55 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:05:55 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:05:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:05:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:05:55 symfony [info] {sfWebDebugLogger} Configuration 22.02 ms (9)
+Feb 06 19:05:55 symfony [info] {sfWebDebugLogger} Factories 84.00 ms (1)
+Feb 06 19:05:55 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 06 19:05:55 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 29.54 ms (1)
+Feb 06 19:05:55 symfony [info] {sfWebResponse} Send content (18407 o)
+Feb 06 19:06:33 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:06:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:06:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:06:33 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:06:33 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:06:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:06:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:06:33 symfony [info] {sfWebDebugLogger} Configuration 30.83 ms (9)
+Feb 06 19:06:33 symfony [info] {sfWebDebugLogger} Factories 116.94 ms (1)
+Feb 06 19:06:33 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.20 ms (1)
+Feb 06 19:06:33 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 38.61 ms (1)
+Feb 06 19:06:33 symfony [info] {sfWebResponse} Send content (28335 o)
+Feb 06 19:07:02 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/image-1.jpg" (/).
+Feb 06 19:07:02 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 06 19:07:02 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:07:02 symfony [info] {sfWebDebugLogger} Configuration 10.68 ms (5)
+Feb 06 19:07:02 symfony [info] {sfWebDebugLogger} Factories 81.46 ms (1)
+Feb 06 19:09:58 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:09:58 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:09:58 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:09:58 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:09:58 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:09:58 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:09:58 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:09:58 symfony [info] {sfWebDebugLogger} Configuration 22.26 ms (9)
+Feb 06 19:09:58 symfony [info] {sfWebDebugLogger} Factories 110.57 ms (1)
+Feb 06 19:09:58 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.22 ms (1)
+Feb 06 19:09:58 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 33.39 ms (1)
+Feb 06 19:09:58 symfony [info] {sfWebResponse} Send content (28362 o)
+Feb 06 19:11:14 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:11:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:11:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:11:14 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:11:14 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:11:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:11:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:11:14 symfony [info] {sfWebDebugLogger} Configuration 20.80 ms (9)
+Feb 06 19:11:14 symfony [info] {sfWebDebugLogger} Factories 116.95 ms (1)
+Feb 06 19:11:14 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.20 ms (1)
+Feb 06 19:11:14 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 33.70 ms (1)
+Feb 06 19:11:14 symfony [info] {sfWebResponse} Send content (28332 o)
+Feb 06 19:13:01 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:13:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:13:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:13:01 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:13:01 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:13:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:13:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:13:01 symfony [info] {sfWebDebugLogger} Configuration 18.75 ms (9)
+Feb 06 19:13:01 symfony [info] {sfWebDebugLogger} Factories 146.83 ms (1)
+Feb 06 19:13:01 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.20 ms (1)
+Feb 06 19:13:01 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 33.31 ms (1)
+Feb 06 19:13:01 symfony [info] {sfWebResponse} Send content (28352 o)
+Feb 06 19:13:11 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/image-2.jpg" (/).
+Feb 06 19:13:11 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 06 19:13:11 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:13:11 symfony [info] {sfWebDebugLogger} Configuration 35.51 ms (5)
+Feb 06 19:13:11 symfony [info] {sfWebDebugLogger} Factories 587.66 ms (1)
+Feb 06 19:13:13 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/image-2.jpg" (/).
+Feb 06 19:13:13 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 06 19:13:13 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:13:13 symfony [info] {sfWebDebugLogger} Configuration 9.39 ms (5)
+Feb 06 19:13:13 symfony [info] {sfWebDebugLogger} Factories 75.40 ms (1)
+Feb 06 19:13:19 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/image-2.jpg" (/).
+Feb 06 19:13:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 06 19:13:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:13:20 symfony [info] {sfWebDebugLogger} Configuration 9.91 ms (5)
+Feb 06 19:13:20 symfony [info] {sfWebDebugLogger} Factories 71.85 ms (1)
+Feb 06 19:13:23 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/images/image-2.jpg" (/).
+Feb 06 19:13:23 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 06 19:13:23 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:13:23 symfony [info] {sfWebDebugLogger} Configuration 9.42 ms (5)
+Feb 06 19:13:23 symfony [info] {sfWebDebugLogger} Factories 68.31 ms (1)
+Feb 06 19:14:48 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:14:48 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:14:48 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:14:48 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:14:48 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:14:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:14:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:14:48 symfony [info] {sfWebDebugLogger} Configuration 19.44 ms (9)
+Feb 06 19:14:48 symfony [info] {sfWebDebugLogger} Factories 78.10 ms (1)
+Feb 06 19:14:48 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 06 19:14:48 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 35.12 ms (1)
+Feb 06 19:14:48 symfony [info] {sfWebResponse} Send content (28347 o)
+Feb 06 19:16:31 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:16:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:16:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:16:31 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:16:31 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:16:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:16:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:16:31 symfony [info] {sfWebDebugLogger} Configuration 187.61 ms (9)
+Feb 06 19:16:31 symfony [info] {sfWebDebugLogger} Factories 265.47 ms (1)
+Feb 06 19:16:31 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 06 19:16:31 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 54.27 ms (1)
+Feb 06 19:16:32 symfony [info] {sfWebResponse} Send content (28350 o)
+Feb 06 19:17:50 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:17:50 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:17:50 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:17:50 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:17:50 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:17:50 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:17:50 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:17:50 symfony [info] {sfWebDebugLogger} Configuration 27.10 ms (9)
+Feb 06 19:17:50 symfony [info] {sfWebDebugLogger} Factories 119.88 ms (1)
+Feb 06 19:17:50 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.20 ms (1)
+Feb 06 19:17:50 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 32.94 ms (1)
+Feb 06 19:17:50 symfony [info] {sfWebResponse} Send content (28349 o)
+Feb 06 19:19:03 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:19:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:19:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:19:03 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:19:03 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:19:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:19:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:19:03 symfony [info] {sfWebDebugLogger} Configuration 19.25 ms (9)
+Feb 06 19:19:03 symfony [info] {sfWebDebugLogger} Factories 112.67 ms (1)
+Feb 06 19:19:03 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.20 ms (1)
+Feb 06 19:19:03 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 62.57 ms (1)
+Feb 06 19:19:03 symfony [info] {sfWebResponse} Send content (28339 o)
+Feb 06 19:27:40 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:27:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:27:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:27:41 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:27:41 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:27:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:27:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:27:41 symfony [info] {sfWebDebugLogger} Configuration 20.60 ms (9)
+Feb 06 19:27:41 symfony [info] {sfWebDebugLogger} Factories 106.11 ms (1)
+Feb 06 19:27:41 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.20 ms (1)
+Feb 06 19:27:41 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 35.12 ms (1)
+Feb 06 19:27:41 symfony [info] {sfWebResponse} Send content (28356 o)
+Feb 06 19:28:14 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:28:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:28:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:28:14 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:28:14 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:28:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:28:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:28:14 symfony [info] {sfWebDebugLogger} Configuration 22.31 ms (9)
+Feb 06 19:28:14 symfony [info] {sfWebDebugLogger} Factories 101.66 ms (1)
+Feb 06 19:28:14 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 06 19:28:14 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 32.68 ms (1)
+Feb 06 19:28:14 symfony [info] {sfWebResponse} Send content (28356 o)
+Feb 06 19:28:18 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:28:18 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:28:18 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:28:18 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:28:18 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:28:18 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:28:18 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:28:18 symfony [info] {sfWebDebugLogger} Configuration 18.41 ms (9)
+Feb 06 19:28:18 symfony [info] {sfWebDebugLogger} Factories 103.85 ms (1)
+Feb 06 19:28:18 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 06 19:28:18 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 34.74 ms (1)
+Feb 06 19:28:18 symfony [info] {sfWebResponse} Send content (28324 o)
+Feb 06 19:28:21 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:28:21 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:28:21 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:28:21 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:28:21 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:28:21 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:28:21 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:28:21 symfony [info] {sfWebDebugLogger} Configuration 19.13 ms (9)
+Feb 06 19:28:21 symfony [info] {sfWebDebugLogger} Factories 148.07 ms (1)
+Feb 06 19:28:21 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.20 ms (1)
+Feb 06 19:28:21 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 31.91 ms (1)
+Feb 06 19:28:21 symfony [info] {sfWebResponse} Send content (28324 o)
+Feb 06 19:28:23 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:28:23 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:28:23 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:28:23 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:28:23 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:28:23 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:28:23 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:28:23 symfony [info] {sfWebDebugLogger} Configuration 17.30 ms (9)
+Feb 06 19:28:23 symfony [info] {sfWebDebugLogger} Factories 117.20 ms (1)
+Feb 06 19:28:23 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 2.15 ms (1)
+Feb 06 19:28:23 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 32.94 ms (1)
+Feb 06 19:28:23 symfony [info] {sfWebResponse} Send content (28356 o)
+Feb 06 19:28:25 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:28:25 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:28:25 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:28:25 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:28:26 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:28:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:28:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:28:26 symfony [info] {sfWebDebugLogger} Configuration 18.78 ms (9)
+Feb 06 19:28:26 symfony [info] {sfWebDebugLogger} Factories 90.54 ms (1)
+Feb 06 19:28:26 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.24 ms (1)
+Feb 06 19:28:26 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 34.57 ms (1)
+Feb 06 19:28:26 symfony [info] {sfWebResponse} Send content (28323 o)
+Feb 06 19:29:33 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:29:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:29:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:29:33 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:29:33 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:29:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:29:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:29:33 symfony [info] {sfWebDebugLogger} Configuration 20.86 ms (9)
+Feb 06 19:29:33 symfony [info] {sfWebDebugLogger} Factories 102.87 ms (1)
+Feb 06 19:29:33 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.22 ms (1)
+Feb 06 19:29:33 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 38.27 ms (1)
+Feb 06 19:29:33 symfony [info] {sfWebResponse} Send content (28356 o)
+Feb 06 19:29:32 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:29:33 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:29:33 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:29:33 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:29:33 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:29:33 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:29:33 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:29:33 symfony [info] {sfWebDebugLogger} Configuration 21.51 ms (9)
+Feb 06 19:29:33 symfony [info] {sfWebDebugLogger} Factories 112.27 ms (1)
+Feb 06 19:29:33 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 06 19:29:33 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 35.63 ms (1)
+Feb 06 19:29:33 symfony [info] {sfWebResponse} Send content (28356 o)
+Feb 06 19:30:59 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:30:59 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:30:59 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:30:59 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:30:59 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:30:59 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:30:59 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:30:59 symfony [info] {sfWebDebugLogger} Configuration 30.48 ms (9)
+Feb 06 19:30:59 symfony [info] {sfWebDebugLogger} Factories 117.22 ms (1)
+Feb 06 19:30:59 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.20 ms (1)
+Feb 06 19:30:59 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 36.33 ms (1)
+Feb 06 19:30:59 symfony [info] {sfWebResponse} Send content (28357 o)
+Feb 06 19:33:12 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:33:12 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:33:12 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:33:12 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:33:12 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:33:12 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:33:12 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:33:12 symfony [info] {sfWebDebugLogger} Configuration 20.81 ms (9)
+Feb 06 19:33:12 symfony [info] {sfWebDebugLogger} Factories 113.04 ms (1)
+Feb 06 19:33:12 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.20 ms (1)
+Feb 06 19:33:12 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 30.99 ms (1)
+Feb 06 19:33:12 symfony [info] {sfWebResponse} Send content (28356 o)
+Feb 06 19:34:56 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:34:56 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:34:56 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:34:56 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:34:56 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:34:56 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:34:56 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:34:56 symfony [info] {sfWebDebugLogger} Configuration 22.10 ms (9)
+Feb 06 19:34:56 symfony [info] {sfWebDebugLogger} Factories 120.42 ms (1)
+Feb 06 19:34:56 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.24 ms (1)
+Feb 06 19:34:56 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 32.41 ms (1)
+Feb 06 19:34:56 symfony [info] {sfWebResponse} Send content (28356 o)
+Feb 06 19:35:47 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:35:47 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:35:47 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:35:47 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:35:47 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:35:47 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:35:47 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:35:47 symfony [info] {sfWebDebugLogger} Configuration 19.41 ms (9)
+Feb 06 19:35:47 symfony [info] {sfWebDebugLogger} Factories 105.23 ms (1)
+Feb 06 19:35:47 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.20 ms (1)
+Feb 06 19:35:47 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 32.90 ms (1)
+Feb 06 19:35:47 symfony [info] {sfWebResponse} Send content (28356 o)
+Feb 06 19:35:49 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:35:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:35:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:35:49 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:35:49 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:35:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:35:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:35:49 symfony [info] {sfWebDebugLogger} Configuration 25.06 ms (9)
+Feb 06 19:35:49 symfony [info] {sfWebDebugLogger} Factories 80.16 ms (1)
+Feb 06 19:35:49 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 06 19:35:49 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 45.60 ms (1)
+Feb 06 19:35:49 symfony [info] {sfWebResponse} Send content (28355 o)
+Feb 06 19:36:03 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:36:03 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:36:03 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:36:03 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:36:03 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:36:03 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:36:03 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:36:03 symfony [info] {sfWebDebugLogger} Configuration 21.01 ms (9)
+Feb 06 19:36:03 symfony [info] {sfWebDebugLogger} Factories 111.54 ms (1)
+Feb 06 19:36:03 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.32 ms (1)
+Feb 06 19:36:03 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 30.52 ms (1)
+Feb 06 19:36:04 symfony [info] {sfWebResponse} Send content (28356 o)
+Feb 06 19:38:10 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:38:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:38:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:38:10 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:38:10 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:38:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:38:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:38:10 symfony [info] {sfWebDebugLogger} Configuration 20.76 ms (9)
+Feb 06 19:38:10 symfony [info] {sfWebDebugLogger} Factories 126.85 ms (1)
+Feb 06 19:38:10 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.23 ms (1)
+Feb 06 19:38:10 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 41.16 ms (1)
+Feb 06 19:38:11 symfony [info] {sfWebResponse} Send content (28356 o)
+Feb 06 19:42:10 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:42:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:42:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:42:10 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:42:10 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:42:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:42:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:42:10 symfony [info] {sfWebDebugLogger} Configuration 22.37 ms (9)
+Feb 06 19:42:10 symfony [info] {sfWebDebugLogger} Factories 111.64 ms (1)
+Feb 06 19:42:10 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.20 ms (1)
+Feb 06 19:42:10 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 33.79 ms (1)
+Feb 06 19:42:10 symfony [info] {sfWebResponse} Send content (28356 o)
+Feb 06 19:43:19 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:43:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:43:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:43:19 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:43:19 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:43:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:43:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:43:19 symfony [info] {sfWebDebugLogger} Configuration 23.25 ms (9)
+Feb 06 19:43:19 symfony [info] {sfWebDebugLogger} Factories 112.37 ms (1)
+Feb 06 19:43:19 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.20 ms (1)
+Feb 06 19:43:19 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 39.74 ms (1)
+Feb 06 19:43:19 symfony [info] {sfWebResponse} Send content (28356 o)
+Feb 06 19:43:39 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 06 19:43:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 06 19:43:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 06 19:43:39 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 06 19:43:39 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 06 19:43:39 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 06 19:43:39 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 06 19:43:39 symfony [info] {sfWebDebugLogger} Configuration 26.14 ms (9)
+Feb 06 19:43:39 symfony [info] {sfWebDebugLogger} Factories 114.38 ms (1)
+Feb 06 19:43:39 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 06 19:43:39 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 38.65 ms (1)
+Feb 06 19:43:39 symfony [info] {sfWebResponse} Send content (28356 o)
+Feb 07 08:52:43 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/ulHideShow with parameters array (  'module' => 'jQuery',  'action' => 'ulHideShow',)
+Feb 07 08:52:46 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 07 08:52:46 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 07 08:52:46 symfony [info] {jqueryActions} Call "jqueryActions->executeUlHideShow()"
+Feb 07 08:52:47 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/ulHideShowSuccess.php"
+Feb 07 08:52:47 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 08:52:47 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 08:52:48 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 07 08:52:48 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 07 08:52:48 symfony [info] {sfWebDebugLogger} Configuration 2632.87 ms (9)
+Feb 07 08:52:48 symfony [info] {sfWebDebugLogger} Factories 3603.43 ms (1)
+Feb 07 08:52:48 symfony [info] {sfWebDebugLogger} Action "jQuery/ulHideShow" 0.21 ms (1)
+Feb 07 08:52:48 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/ulHideShow" 1200.67 ms (1)
+Feb 07 08:52:48 symfony [info] {sfWebResponse} Send content (56940 o)
+Feb 07 08:55:44 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/hideShow with parameters array (  'module' => 'jQuery',  'action' => 'hideShow',)
+Feb 07 08:55:44 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 07 08:55:44 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 07 08:55:44 symfony [info] {jqueryActions} Call "jqueryActions->executeHideShow()"
+Feb 07 08:55:44 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/hideShowSuccess.php"
+Feb 07 08:55:44 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 08:55:44 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 08:55:44 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 07 08:55:44 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 07 08:55:44 symfony [info] {sfWebDebugLogger} Configuration 22.64 ms (9)
+Feb 07 08:55:44 symfony [info] {sfWebDebugLogger} Factories 99.68 ms (1)
+Feb 07 08:55:44 symfony [info] {sfWebDebugLogger} Action "jQuery/hideShow" 0.21 ms (1)
+Feb 07 08:55:44 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/hideShow" 35.45 ms (1)
+Feb 07 08:55:44 symfony [info] {sfWebResponse} Send content (57185 o)
+Feb 07 08:56:49 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/hideShow with parameters array (  'module' => 'jQuery',  'action' => 'hideShow',)
+Feb 07 08:56:49 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 07 08:56:49 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 07 08:56:49 symfony [info] {jqueryActions} Call "jqueryActions->executeHideShow()"
+Feb 07 08:56:49 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/hideShowSuccess.php"
+Feb 07 08:56:49 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 08:56:49 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 08:56:49 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 07 08:56:49 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 07 08:56:49 symfony [info] {sfWebDebugLogger} Configuration 42.15 ms (9)
+Feb 07 08:56:49 symfony [info] {sfWebDebugLogger} Factories 127.87 ms (1)
+Feb 07 08:56:49 symfony [info] {sfWebDebugLogger} Action "jQuery/hideShow" 0.21 ms (1)
+Feb 07 08:56:49 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/hideShow" 48.50 ms (1)
+Feb 07 08:56:49 symfony [info] {sfWebResponse} Send content (57299 o)
+Feb 07 08:58:32 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/hideShow with parameters array (  'module' => 'jQuery',  'action' => 'hideShow',)
+Feb 07 08:58:32 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 07 08:58:32 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 07 08:58:32 symfony [info] {jqueryActions} Call "jqueryActions->executeHideShow()"
+Feb 07 08:58:32 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/hideShowSuccess.php"
+Feb 07 08:58:32 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 08:58:32 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 08:58:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 07 08:58:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 07 08:58:32 symfony [info] {sfWebDebugLogger} Configuration 17.65 ms (9)
+Feb 07 08:58:32 symfony [info] {sfWebDebugLogger} Factories 686.84 ms (1)
+Feb 07 08:58:32 symfony [info] {sfWebDebugLogger} Action "jQuery/hideShow" 0.21 ms (1)
+Feb 07 08:58:32 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/hideShow" 127.59 ms (1)
+Feb 07 08:58:32 symfony [info] {sfWebResponse} Send content (57327 o)
+Feb 07 09:00:31 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/hideShow with parameters array (  'module' => 'jQuery',  'action' => 'hideShow',)
+Feb 07 09:00:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 07 09:00:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 07 09:00:31 symfony [info] {jqueryActions} Call "jqueryActions->executeHideShow()"
+Feb 07 09:00:31 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/hideShowSuccess.php"
+Feb 07 09:00:31 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 09:00:31 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 09:00:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 07 09:00:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 07 09:00:31 symfony [info] {sfWebDebugLogger} Configuration 21.49 ms (9)
+Feb 07 09:00:31 symfony [info] {sfWebDebugLogger} Factories 120.52 ms (1)
+Feb 07 09:00:31 symfony [info] {sfWebDebugLogger} Action "jQuery/hideShow" 0.21 ms (1)
+Feb 07 09:00:31 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/hideShow" 46.10 ms (1)
+Feb 07 09:00:31 symfony [info] {sfWebResponse} Send content (57326 o)
+Feb 07 09:01:37 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/hideShow with parameters array (  'module' => 'jQuery',  'action' => 'hideShow',)
+Feb 07 09:01:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 07 09:01:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 07 09:01:37 symfony [info] {jqueryActions} Call "jqueryActions->executeHideShow()"
+Feb 07 09:01:37 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/hideShowSuccess.php"
+Feb 07 09:01:37 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 09:01:37 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 09:01:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 07 09:01:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 07 09:01:37 symfony [info] {sfWebDebugLogger} Configuration 15.25 ms (9)
+Feb 07 09:01:37 symfony [info] {sfWebDebugLogger} Factories 125.32 ms (1)
+Feb 07 09:01:37 symfony [info] {sfWebDebugLogger} Action "jQuery/hideShow" 0.22 ms (1)
+Feb 07 09:01:37 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/hideShow" 38.17 ms (1)
+Feb 07 09:01:37 symfony [info] {sfWebResponse} Send content (57326 o)
+Feb 07 09:03:53 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/hideShow with parameters array (  'module' => 'jQuery',  'action' => 'hideShow',)
+Feb 07 09:03:53 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 07 09:03:53 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 07 09:03:53 symfony [info] {jqueryActions} Call "jqueryActions->executeHideShow()"
+Feb 07 09:03:53 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/hideShowSuccess.php"
+Feb 07 09:03:53 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 09:03:53 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 09:03:53 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 07 09:03:53 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 07 09:03:53 symfony [info] {sfWebDebugLogger} Configuration 21.33 ms (9)
+Feb 07 09:03:53 symfony [info] {sfWebDebugLogger} Factories 108.75 ms (1)
+Feb 07 09:03:53 symfony [info] {sfWebDebugLogger} Action "jQuery/hideShow" 0.21 ms (1)
+Feb 07 09:03:53 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/hideShow" 42.81 ms (1)
+Feb 07 09:03:53 symfony [info] {sfWebResponse} Send content (59236 o)
+Feb 07 09:04:14 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/hideShow with parameters array (  'module' => 'jQuery',  'action' => 'hideShow',)
+Feb 07 09:04:14 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 07 09:04:14 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 07 09:04:14 symfony [info] {jqueryActions} Call "jqueryActions->executeHideShow()"
+Feb 07 09:04:14 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/hideShowSuccess.php"
+Feb 07 09:04:14 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 09:04:14 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 09:04:14 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 07 09:04:14 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 07 09:04:14 symfony [info] {sfWebDebugLogger} Configuration 18.10 ms (9)
+Feb 07 09:04:14 symfony [info] {sfWebDebugLogger} Factories 109.64 ms (1)
+Feb 07 09:04:14 symfony [info] {sfWebDebugLogger} Action "jQuery/hideShow" 0.33 ms (1)
+Feb 07 09:04:14 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/hideShow" 40.81 ms (1)
+Feb 07 09:04:15 symfony [info] {sfWebResponse} Send content (59234 o)
+Feb 07 09:04:20 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/hideShow with parameters array (  'module' => 'jQuery',  'action' => 'hideShow',)
+Feb 07 09:04:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 07 09:04:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 07 09:04:20 symfony [info] {jqueryActions} Call "jqueryActions->executeHideShow()"
+Feb 07 09:04:20 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/hideShowSuccess.php"
+Feb 07 09:04:20 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 09:04:20 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 09:04:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 07 09:04:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 07 09:04:20 symfony [info] {sfWebDebugLogger} Configuration 18.77 ms (9)
+Feb 07 09:04:20 symfony [info] {sfWebDebugLogger} Factories 86.55 ms (1)
+Feb 07 09:04:20 symfony [info] {sfWebDebugLogger} Action "jQuery/hideShow" 0.21 ms (1)
+Feb 07 09:04:20 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/hideShow" 43.41 ms (1)
+Feb 07 09:04:20 symfony [info] {sfWebResponse} Send content (59233 o)
+Feb 07 09:04:41 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/hideShow with parameters array (  'module' => 'jQuery',  'action' => 'hideShow',)
+Feb 07 09:04:41 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 07 09:04:41 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 07 09:04:41 symfony [info] {jqueryActions} Call "jqueryActions->executeHideShow()"
+Feb 07 09:04:41 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/hideShowSuccess.php"
+Feb 07 09:04:41 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 09:04:41 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 09:04:41 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 07 09:04:41 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 07 09:04:41 symfony [info] {sfWebDebugLogger} Configuration 16.83 ms (9)
+Feb 07 09:04:41 symfony [info] {sfWebDebugLogger} Factories 110.81 ms (1)
+Feb 07 09:04:41 symfony [info] {sfWebDebugLogger} Action "jQuery/hideShow" 1.07 ms (1)
+Feb 07 09:04:41 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/hideShow" 39.72 ms (1)
+Feb 07 09:04:41 symfony [info] {sfWebResponse} Send content (59235 o)
+Feb 07 09:05:05 symfony [info] {sfPatternRouting} Match route "default" (/:module/:action/*) for /jQuery/hideShow with parameters array (  'module' => 'jQuery',  'action' => 'hideShow',)
+Feb 07 09:05:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 07 09:05:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 07 09:05:05 symfony [info] {jqueryActions} Call "jqueryActions->executeHideShow()"
+Feb 07 09:05:05 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/jQuery/templates/hideShowSuccess.php"
+Feb 07 09:05:05 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 09:05:05 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 07 09:05:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 07 09:05:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 07 09:05:05 symfony [info] {sfWebDebugLogger} Configuration 19.42 ms (9)
+Feb 07 09:05:05 symfony [info] {sfWebDebugLogger} Factories 104.71 ms (1)
+Feb 07 09:05:05 symfony [info] {sfWebDebugLogger} Action "jQuery/hideShow" 0.22 ms (1)
+Feb 07 09:05:05 symfony [info] {sfWebDebugLogger} View "Success" for "jQuery/hideShow" 42.88 ms (1)
+Feb 07 09:05:05 symfony [info] {sfWebResponse} Send content (59233 o)
+Feb 14 14:30:19 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 14 14:30:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 14 14:30:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 14 14:30:20 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 14 14:30:20 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 14 14:30:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 14 14:30:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 14 14:30:20 symfony [info] {sfWebDebugLogger} Configuration 137.09 ms (9)
+Feb 14 14:30:20 symfony [info] {sfWebDebugLogger} Factories 232.67 ms (1)
+Feb 14 14:30:20 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 14 14:30:20 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 69.16 ms (1)
+Feb 14 14:30:20 symfony [info] {sfWebResponse} Send content (28204 o)
+Feb 14 14:45:28 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 14 14:45:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 14 14:45:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 14 14:45:28 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 14 14:45:29 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 14 14:45:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 14 14:45:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 14 14:45:29 symfony [info] {sfWebDebugLogger} Configuration 64.09 ms (9)
+Feb 14 14:45:29 symfony [info] {sfWebDebugLogger} Factories 200.22 ms (1)
+Feb 14 14:45:29 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.29 ms (1)
+Feb 14 14:45:29 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 448.16 ms (1)
+Feb 14 14:45:29 symfony [info] {sfWebResponse} Send content (28203 o)
+Feb 14 15:05:35 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 14 15:05:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 14 15:05:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 14 15:05:35 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 14 15:05:35 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 14 15:05:35 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 14 15:05:35 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 14 15:05:35 symfony [info] {sfWebDebugLogger} Configuration 32.73 ms (9)
+Feb 14 15:05:35 symfony [info] {sfWebDebugLogger} Factories 91.62 ms (1)
+Feb 14 15:05:35 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.20 ms (1)
+Feb 14 15:05:35 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 34.80 ms (1)
+Feb 14 15:05:35 symfony [info] {sfWebResponse} Send content (28057 o)
+Feb 14 21:59:19 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 14 21:59:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 14 21:59:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 14 21:59:19 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 14 21:59:20 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 14 21:59:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 14 21:59:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 14 21:59:20 symfony [info] {sfWebDebugLogger} Configuration 344.16 ms (9)
+Feb 14 21:59:20 symfony [info] {sfWebDebugLogger} Factories 992.13 ms (1)
+Feb 14 21:59:20 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 14 21:59:20 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 351.75 ms (1)
+Feb 14 21:59:20 symfony [info] {sfWebResponse} Send content (27781 o)
+Feb 15 18:17:04 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /pagePrint with parameters array (  'module' => 'pagePrint',  'action' => 'index',)
+Feb 15 18:17:04 symfony [info] {myUser} Automatic user logout due to timeout
+Feb 15 18:17:04 symfony [info] {myUser} User is not authenticated
+Feb 15 18:17:05 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 15 18:17:05 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 15 18:17:05 symfony [info] {pagePrintActions} Call "pagePrintActions->executeIndex()"
+Feb 15 18:17:05 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/pagePrint/templates/indexSuccess.php"
+Feb 15 18:17:05 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 15 18:17:05 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 15 18:17:05 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 15 18:17:05 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 15 18:17:05 symfony [info] {sfWebDebugLogger} Configuration 246.18 ms (10)
+Feb 15 18:17:05 symfony [info] {sfWebDebugLogger} Factories 448.46 ms (1)
+Feb 15 18:17:05 symfony [info] {sfWebDebugLogger} Action "pagePrint/index" 0.21 ms (1)
+Feb 15 18:17:05 symfony [info] {sfWebDebugLogger} View "Success" for "pagePrint/index" 166.89 ms (1)
+Feb 15 18:17:05 symfony [info] {sfWebResponse} Send content (29696 o)
+Feb 15 18:17:06 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/jjhj.jpg" (/).
+Feb 15 18:17:06 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 15 18:17:06 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 15 18:17:06 symfony [info] {sfWebDebugLogger} Configuration 34.70 ms (5)
+Feb 15 18:17:06 symfony [info] {sfWebDebugLogger} Factories 115.93 ms (1)
+Feb 15 18:34:36 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /pagePrint with parameters array (  'module' => 'pagePrint',  'action' => 'index',)
+Feb 15 18:34:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 15 18:34:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 15 18:34:37 symfony [info] {pagePrintActions} Call "pagePrintActions->executeIndex()"
+Feb 15 18:34:37 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/pagePrint/templates/indexSuccess.php"
+Feb 15 18:34:37 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 15 18:34:37 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 15 18:34:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 15 18:34:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 15 18:34:37 symfony [info] {sfWebDebugLogger} Configuration 37.57 ms (9)
+Feb 15 18:34:37 symfony [info] {sfWebDebugLogger} Factories 138.50 ms (1)
+Feb 15 18:34:37 symfony [info] {sfWebDebugLogger} Action "pagePrint/index" 0.20 ms (1)
+Feb 15 18:34:37 symfony [info] {sfWebDebugLogger} View "Success" for "pagePrint/index" 75.47 ms (1)
+Feb 15 18:34:37 symfony [info] {sfWebResponse} Send content (29205 o)
+Feb 16 21:52:34 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 16 21:52:34 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 21:52:34 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 21:52:34 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 16 21:52:34 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 16 21:52:34 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 21:52:34 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 21:52:34 symfony [info] {sfWebDebugLogger} Configuration 301.99 ms (10)
+Feb 16 21:52:34 symfony [info] {sfWebDebugLogger} Factories 526.17 ms (1)
+Feb 16 21:52:34 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.20 ms (1)
+Feb 16 21:52:34 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 280.53 ms (1)
+Feb 16 21:52:35 symfony [info] {sfWebResponse} Send content (27782 o)
+Feb 16 21:52:55 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 16 21:52:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 21:52:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 21:52:55 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 16 21:52:55 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 16 21:52:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 21:52:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 21:52:55 symfony [info] {sfWebDebugLogger} Configuration 28.22 ms (9)
+Feb 16 21:52:55 symfony [info] {sfWebDebugLogger} Factories 110.53 ms (1)
+Feb 16 21:52:55 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 16 21:52:55 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 33.12 ms (1)
+Feb 16 21:52:55 symfony [info] {sfWebResponse} Send content (28090 o)
+Feb 16 21:53:19 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 16 21:53:19 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 21:53:19 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 21:53:19 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 16 21:53:19 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 16 21:53:19 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 21:53:19 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 21:53:19 symfony [info] {sfWebDebugLogger} Configuration 420.21 ms (9)
+Feb 16 21:53:19 symfony [info] {sfWebDebugLogger} Factories 220.12 ms (1)
+Feb 16 21:53:19 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 16 21:53:19 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 53.65 ms (1)
+Feb 16 21:53:19 symfony [info] {sfWebResponse} Send content (28090 o)
+Feb 16 21:54:47 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 16 21:54:47 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 21:54:47 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 21:54:47 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 16 21:54:47 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 16 21:54:47 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 21:54:47 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 21:54:47 symfony [info] {sfWebDebugLogger} Configuration 95.46 ms (10)
+Feb 16 21:54:47 symfony [info] {sfWebDebugLogger} Factories 114.54 ms (1)
+Feb 16 21:54:47 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 16 21:54:47 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 87.80 ms (1)
+Feb 16 21:54:47 symfony [info] {sfWebResponse} Send content (28095 o)
+Feb 16 22:44:01 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 16 22:44:01 symfony [info] {myUser} Automatic user logout due to timeout
+Feb 16 22:44:01 symfony [info] {myUser} User is not authenticated
+Feb 16 22:44:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 22:44:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 22:44:01 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 16 22:44:01 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 16 22:44:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 22:44:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 22:44:01 symfony [info] {sfWebDebugLogger} Configuration 69.05 ms (10)
+Feb 16 22:44:01 symfony [info] {sfWebDebugLogger} Factories 116.26 ms (1)
+Feb 16 22:44:01 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.24 ms (1)
+Feb 16 22:44:01 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 89.22 ms (1)
+Feb 16 22:44:01 symfony [info] {sfWebResponse} Send content (28826 o)
+Feb 16 22:44:26 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 16 22:44:26 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 22:44:26 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 22:44:26 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 16 22:44:26 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 16 22:44:26 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 22:44:26 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 22:44:26 symfony [info] {sfWebDebugLogger} Configuration 20.87 ms (9)
+Feb 16 22:44:26 symfony [info] {sfWebDebugLogger} Factories 141.86 ms (1)
+Feb 16 22:44:26 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 16 22:44:26 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 29.74 ms (1)
+Feb 16 22:44:26 symfony [info] {sfWebResponse} Send content (28093 o)
+Feb 16 22:45:19 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /lytebox with parameters array (  'module' => 'lytebox',  'action' => 'index',)
+Feb 16 22:45:20 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 22:45:20 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 22:45:20 symfony [info] {lyteboxActions} Call "lyteboxActions->executeIndex()"
+Feb 16 22:45:20 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/lytebox/templates/indexSuccess.php"
+Feb 16 22:45:20 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 16 22:45:20 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Feb 16 22:45:20 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 22:45:20 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 22:45:20 symfony [info] {sfWebDebugLogger} Configuration 73.53 ms (10)
+Feb 16 22:45:20 symfony [info] {sfWebDebugLogger} Factories 120.17 ms (1)
+Feb 16 22:45:20 symfony [info] {sfWebDebugLogger} Action "lytebox/index" 0.21 ms (1)
+Feb 16 22:45:20 symfony [info] {sfWebDebugLogger} View "Success" for "lytebox/index" 120.20 ms (1)
+Feb 16 22:45:20 symfony [info] {sfWebResponse} Send content (29974 o)
+Feb 16 22:48:21 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /tinymce with parameters array (  'module' => 'tinymce',  'action' => 'index',)
+Feb 16 22:48:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 22:48:22 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 22:48:22 symfony [info] {tinymceActions} Call "tinymceActions->executeIndex()"
+Feb 16 22:48:22 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/tinymce/templates/indexSuccess.php"
+Feb 16 22:48:22 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 22:48:22 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 22:48:22 symfony [info] {sfWebDebugLogger} Configuration 127.22 ms (10)
+Feb 16 22:48:22 symfony [info] {sfWebDebugLogger} Factories 103.26 ms (1)
+Feb 16 22:48:22 symfony [info] {sfWebDebugLogger} Action "tinymce/index" 1.20 ms (1)
+Feb 16 22:48:22 symfony [info] {sfWebDebugLogger} View "Success" for "tinymce/index" 53.60 ms (1)
+Feb 16 22:48:22 symfony [info] {sfWebResponse} Send content (17964 o)
+Feb 16 22:50:07 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /tinymce with parameters array (  'module' => 'tinymce',  'action' => 'index',)
+Feb 16 22:50:07 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 22:50:07 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 22:50:07 symfony [info] {tinymceActions} Call "tinymceActions->executeIndex()"
+Feb 16 22:50:07 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/tinymce/templates/indexSuccess.php"
+Feb 16 22:50:07 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 22:50:07 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 22:50:07 symfony [info] {sfWebDebugLogger} Configuration 41.13 ms (9)
+Feb 16 22:50:07 symfony [info] {sfWebDebugLogger} Factories 117.85 ms (1)
+Feb 16 22:50:07 symfony [info] {sfWebDebugLogger} Action "tinymce/index" 0.21 ms (1)
+Feb 16 22:50:07 symfony [info] {sfWebDebugLogger} View "Success" for "tinymce/index" 49.03 ms (1)
+Feb 16 22:50:07 symfony [info] {sfWebResponse} Send content (27800 o)
+Feb 16 22:51:01 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /tinymce with parameters array (  'module' => 'tinymce',  'action' => 'index',)
+Feb 16 22:51:01 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 22:51:01 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 22:51:01 symfony [info] {tinymceActions} Call "tinymceActions->executeIndex()"
+Feb 16 22:51:01 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/tinymce/templates/indexSuccess.php"
+Feb 16 22:51:01 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 22:51:01 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 22:51:01 symfony [info] {sfWebDebugLogger} Configuration 78.31 ms (10)
+Feb 16 22:51:01 symfony [info] {sfWebDebugLogger} Factories 110.30 ms (1)
+Feb 16 22:51:01 symfony [info] {sfWebDebugLogger} Action "tinymce/index" 0.20 ms (1)
+Feb 16 22:51:01 symfony [info] {sfWebDebugLogger} View "Success" for "tinymce/index" 94.99 ms (1)
+Feb 16 22:51:02 symfony [info] {sfWebResponse} Send content (27817 o)
+Feb 16 22:51:31 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /tinymce with parameters array (  'module' => 'tinymce',  'action' => 'index',)
+Feb 16 22:51:31 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 22:51:31 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 22:51:31 symfony [info] {tinymceActions} Call "tinymceActions->executeIndex()"
+Feb 16 22:51:31 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/tinymce/templates/indexSuccess.php"
+Feb 16 22:51:31 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 22:51:31 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 22:51:31 symfony [info] {sfWebDebugLogger} Configuration 68.80 ms (10)
+Feb 16 22:51:31 symfony [info] {sfWebDebugLogger} Factories 117.33 ms (1)
+Feb 16 22:51:31 symfony [info] {sfWebDebugLogger} Action "tinymce/index" 0.20 ms (1)
+Feb 16 22:51:31 symfony [info] {sfWebDebugLogger} View "Success" for "tinymce/index" 113.45 ms (1)
+Feb 16 22:51:31 symfony [info] {sfWebResponse} Send content (27820 o)
+Feb 16 22:57:55 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /tinymce with parameters array (  'module' => 'tinymce',  'action' => 'index',)
+Feb 16 22:57:55 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 22:57:55 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 22:57:55 symfony [info] {tinymceActions} Call "tinymceActions->executeIndex()"
+Feb 16 22:57:55 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/tinymce/templates/indexSuccess.php"
+Feb 16 22:57:55 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 22:57:55 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 22:57:55 symfony [info] {sfWebDebugLogger} Configuration 69.63 ms (10)
+Feb 16 22:57:55 symfony [info] {sfWebDebugLogger} Factories 108.05 ms (1)
+Feb 16 22:57:55 symfony [info] {sfWebDebugLogger} Action "tinymce/index" 0.20 ms (1)
+Feb 16 22:57:55 symfony [info] {sfWebDebugLogger} View "Success" for "tinymce/index" 89.17 ms (1)
+Feb 16 22:57:55 symfony [info] {sfWebResponse} Send content (30542 o)
+Feb 16 22:57:58 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/css/content.css" (/).
+Feb 16 22:57:58 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 16 22:57:58 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 22:57:58 symfony [info] {sfWebDebugLogger} Configuration 37.98 ms (5)
+Feb 16 22:57:58 symfony [info] {sfWebDebugLogger} Factories 102.30 ms (1)
+Feb 16 23:10:38 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/lists/link_list.js" (/).
+Feb 16 23:10:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 16 23:10:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 23:10:38 symfony [info] {sfWebDebugLogger} Configuration 8.89 ms (5)
+Feb 16 23:10:38 symfony [info] {sfWebDebugLogger} Factories 77.20 ms (1)
+Feb 16 23:12:29 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /tinymce with parameters array (  'module' => 'tinymce',  'action' => 'index',)
+Feb 16 23:12:29 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 23:12:29 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 23:12:29 symfony [info] {tinymceActions} Call "tinymceActions->executeIndex()"
+Feb 16 23:12:29 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/tinymce/templates/indexSuccess.php"
+Feb 16 23:12:29 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 23:12:29 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 23:12:29 symfony [info] {sfWebDebugLogger} Configuration 61.03 ms (10)
+Feb 16 23:12:29 symfony [info] {sfWebDebugLogger} Factories 89.64 ms (1)
+Feb 16 23:12:29 symfony [info] {sfWebDebugLogger} Action "tinymce/index" 0.21 ms (1)
+Feb 16 23:12:29 symfony [info] {sfWebDebugLogger} View "Success" for "tinymce/index" 79.10 ms (1)
+Feb 16 23:12:29 symfony [info] {sfWebResponse} Send content (30541 o)
+Feb 16 23:12:32 symfony [err] {sfError404Exception} Empty module and/or action after parsing the URL "/css/main.css" (/).
+Feb 16 23:12:32 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 16 23:12:32 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 23:12:32 symfony [info] {sfWebDebugLogger} Configuration 87.41 ms (5)
+Feb 16 23:12:32 symfony [info] {sfWebDebugLogger} Factories 71.38 ms (1)
+Feb 16 23:13:10 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /tinymce with parameters array (  'module' => 'tinymce',  'action' => 'index',)
+Feb 16 23:13:10 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 23:13:10 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 23:13:10 symfony [info] {tinymceActions} Call "tinymceActions->executeIndex()"
+Feb 16 23:13:10 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/tinymce/templates/indexSuccess.php"
+Feb 16 23:13:10 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 23:13:10 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 23:13:10 symfony [info] {sfWebDebugLogger} Configuration 20.80 ms (9)
+Feb 16 23:13:10 symfony [info] {sfWebDebugLogger} Factories 77.54 ms (1)
+Feb 16 23:13:10 symfony [info] {sfWebDebugLogger} Action "tinymce/index" 0.24 ms (1)
+Feb 16 23:13:10 symfony [info] {sfWebDebugLogger} View "Success" for "tinymce/index" 37.59 ms (1)
+Feb 16 23:13:10 symfony [info] {sfWebResponse} Send content (30542 o)
+Feb 16 23:13:54 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /tinymce with parameters array (  'module' => 'tinymce',  'action' => 'index',)
+Feb 16 23:13:54 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 23:13:54 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 23:13:54 symfony [info] {tinymceActions} Call "tinymceActions->executeIndex()"
+Feb 16 23:13:54 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/tinymce/templates/indexSuccess.php"
+Feb 16 23:13:54 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 23:13:54 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 23:13:54 symfony [info] {sfWebDebugLogger} Configuration 20.10 ms (9)
+Feb 16 23:13:54 symfony [info] {sfWebDebugLogger} Factories 106.83 ms (1)
+Feb 16 23:13:54 symfony [info] {sfWebDebugLogger} Action "tinymce/index" 0.21 ms (1)
+Feb 16 23:13:54 symfony [info] {sfWebDebugLogger} View "Success" for "tinymce/index" 29.94 ms (1)
+Feb 16 23:13:54 symfony [info] {sfWebResponse} Send content (30511 o)
+Feb 16 23:14:28 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /tinymce with parameters array (  'module' => 'tinymce',  'action' => 'index',)
+Feb 16 23:14:28 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 23:14:28 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 23:14:28 symfony [info] {tinymceActions} Call "tinymceActions->executeIndex()"
+Feb 16 23:14:28 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/tinymce/templates/indexSuccess.php"
+Feb 16 23:14:28 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 23:14:28 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 23:14:28 symfony [info] {sfWebDebugLogger} Configuration 22.94 ms (9)
+Feb 16 23:14:28 symfony [info] {sfWebDebugLogger} Factories 111.15 ms (1)
+Feb 16 23:14:28 symfony [info] {sfWebDebugLogger} Action "tinymce/index" 0.21 ms (1)
+Feb 16 23:14:28 symfony [info] {sfWebDebugLogger} View "Success" for "tinymce/index" 29.49 ms (1)
+Feb 16 23:14:28 symfony [info] {sfWebResponse} Send content (30511 o)
+Feb 16 23:17:24 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /tinymce with parameters array (  'module' => 'tinymce',  'action' => 'index',)
+Feb 16 23:17:24 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 16 23:17:24 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 16 23:17:24 symfony [info] {tinymceActions} Call "tinymceActions->executeIndex()"
+Feb 16 23:17:24 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/tinymce/templates/indexSuccess.php"
+Feb 16 23:17:24 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 16 23:17:24 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 16 23:17:24 symfony [info] {sfWebDebugLogger} Configuration 27.55 ms (9)
+Feb 16 23:17:24 symfony [info] {sfWebDebugLogger} Factories 118.87 ms (1)
+Feb 16 23:17:24 symfony [info] {sfWebDebugLogger} Action "tinymce/index" 0.21 ms (1)
+Feb 16 23:17:24 symfony [info] {sfWebDebugLogger} View "Success" for "tinymce/index" 40.13 ms (1)
+Feb 16 23:17:24 symfony [info] {sfWebResponse} Send content (31101 o)
+Feb 24 17:15:37 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /googlemaps with parameters array (  'module' => 'googlemaps',  'action' => 'index',)
+Feb 24 17:15:37 symfony [info] {sfFrontWebController} Action "googlemaps/index" does not exist
+Feb 24 17:15:38 symfony [err] {sfError404Exception} Action "googlemaps/index" does not exist.
+Feb 24 17:15:38 symfony [info] {sfWebResponse} Send status "HTTP/1.1 404 Not Found"
+Feb 24 17:15:38 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 24 17:15:38 symfony [info] {sfWebDebugLogger} Configuration 101.41 ms (5)
+Feb 24 17:15:38 symfony [info] {sfWebDebugLogger} Factories 749.82 ms (1)
+Feb 26 14:48:35 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /tinymce with parameters array (  'module' => 'tinymce',  'action' => 'index',)
+Feb 26 14:48:35 symfony [info] {myUser} Automatic user logout due to timeout
+Feb 26 14:48:35 symfony [info] {myUser} User is not authenticated
+Feb 26 14:48:35 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 26 14:48:35 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 26 14:48:35 symfony [info] {tinymceActions} Call "tinymceActions->executeIndex()"
+Feb 26 14:48:35 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/tinymce/templates/indexSuccess.php"
+Feb 26 14:48:36 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 26 14:48:36 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 26 14:48:36 symfony [info] {sfWebDebugLogger} Configuration 95.32 ms (9)
+Feb 26 14:48:36 symfony [info] {sfWebDebugLogger} Factories 392.64 ms (1)
+Feb 26 14:48:36 symfony [info] {sfWebDebugLogger} Action "tinymce/index" 0.22 ms (1)
+Feb 26 14:48:36 symfony [info] {sfWebDebugLogger} View "Success" for "tinymce/index" 120.55 ms (1)
+Feb 26 14:48:36 symfony [info] {sfWebResponse} Send content (31380 o)
+Feb 26 14:48:47 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /googleMap with parameters array (  'module' => 'googleMap',  'action' => 'index',)
+Feb 26 14:48:47 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 26 14:48:47 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 26 14:48:47 symfony [info] {googleMapActions} Call "googleMapActions->executeIndex()"
+Feb 26 14:48:47 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/googleMap/templates/indexSuccess.php"
+Feb 26 14:48:47 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 26 14:48:47 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 26 14:48:47 symfony [info] {sfWebDebugLogger} Configuration 124.71 ms (10)
+Feb 26 14:48:47 symfony [info] {sfWebDebugLogger} Factories 94.65 ms (1)
+Feb 26 14:48:47 symfony [info] {sfWebDebugLogger} Action "googleMap/index" 0.21 ms (1)
+Feb 26 14:48:47 symfony [info] {sfWebDebugLogger} View "Success" for "googleMap/index" 52.45 ms (1)
+Feb 26 14:48:47 symfony [info] {sfWebResponse} Send content (28290 o)
+Feb 26 14:51:54 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /googleMap with parameters array (  'module' => 'googleMap',  'action' => 'index',)
+Feb 26 14:51:54 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 26 14:51:54 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 26 14:51:54 symfony [info] {googleMapActions} Call "googleMapActions->executeIndex()"
+Feb 26 14:51:54 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/googleMap/templates/indexSuccess.php"
+Feb 26 14:51:54 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 26 14:51:54 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 26 14:51:54 symfony [info] {sfWebDebugLogger} Configuration 105.13 ms (10)
+Feb 26 14:51:54 symfony [info] {sfWebDebugLogger} Factories 135.32 ms (1)
+Feb 26 14:51:54 symfony [info] {sfWebDebugLogger} Action "googleMap/index" 0.24 ms (1)
+Feb 26 14:51:54 symfony [info] {sfWebDebugLogger} View "Success" for "googleMap/index" 101.71 ms (1)
+Feb 26 14:51:54 symfony [info] {sfWebResponse} Send content (28496 o)
+Feb 26 14:55:00 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /googleMap with parameters array (  'module' => 'googleMap',  'action' => 'index',)
+Feb 26 14:55:00 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 26 14:55:00 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 26 14:55:00 symfony [info] {googleMapActions} Call "googleMapActions->executeIndex()"
+Feb 26 14:55:00 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/googleMap/templates/indexSuccess.php"
+Feb 26 14:55:00 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 26 14:55:00 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 26 14:55:00 symfony [info] {sfWebDebugLogger} Configuration 24.69 ms (9)
+Feb 26 14:55:00 symfony [info] {sfWebDebugLogger} Factories 140.40 ms (1)
+Feb 26 14:55:00 symfony [info] {sfWebDebugLogger} Action "googleMap/index" 0.20 ms (1)
+Feb 26 14:55:00 symfony [info] {sfWebDebugLogger} View "Success" for "googleMap/index" 49.13 ms (1)
+Feb 26 14:55:00 symfony [info] {sfWebResponse} Send content (28513 o)
+Feb 26 14:56:51 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /googleMap with parameters array (  'module' => 'googleMap',  'action' => 'index',)
+Feb 26 14:56:51 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 26 14:56:51 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 26 14:56:51 symfony [info] {googleMapActions} Call "googleMapActions->executeIndex()"
+Feb 26 14:56:51 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/googleMap/templates/indexSuccess.php"
+Feb 26 14:56:51 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 26 14:56:51 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 26 14:56:51 symfony [info] {sfWebDebugLogger} Configuration 32.21 ms (9)
+Feb 26 14:56:51 symfony [info] {sfWebDebugLogger} Factories 108.74 ms (1)
+Feb 26 14:56:51 symfony [info] {sfWebDebugLogger} Action "googleMap/index" 0.21 ms (1)
+Feb 26 14:56:51 symfony [info] {sfWebDebugLogger} View "Success" for "googleMap/index" 34.14 ms (1)
+Feb 26 14:56:51 symfony [info] {sfWebResponse} Send content (28538 o)
+Feb 26 22:25:39 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /googleMap with parameters array (  'module' => 'googleMap',  'action' => 'index',)
+Feb 26 22:25:39 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Feb 26 22:25:39 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Feb 26 22:25:39 symfony [info] {googleMapActions} Call "googleMapActions->executeIndex()"
+Feb 26 22:25:39 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/googleMap/templates/indexSuccess.php"
+Feb 26 22:25:39 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Feb 26 22:25:39 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Feb 26 22:25:39 symfony [info] {sfWebDebugLogger} Configuration 35.25 ms (9)
+Feb 26 22:25:39 symfony [info] {sfWebDebugLogger} Factories 327.00 ms (1)
+Feb 26 22:25:39 symfony [info] {sfWebDebugLogger} Action "googleMap/index" 0.21 ms (1)
+Feb 26 22:25:39 symfony [info] {sfWebDebugLogger} View "Success" for "googleMap/index" 144.50 ms (1)
+Feb 26 22:25:39 symfony [info] {sfWebResponse} Send content (28285 o)
+Mar 23 11:33:37 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /javaScript with parameters array (  'module' => 'javaScript',  'action' => 'index',)
+Mar 23 11:33:37 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 23 11:33:37 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 23 11:33:37 symfony [info] {javaScriptActions} Call "javaScriptActions->executeIndex()"
+Mar 23 11:33:37 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/javaScript/templates/indexSuccess.php"
+Mar 23 11:33:37 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Mar 23 11:33:37 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Mar 23 11:33:37 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 23 11:33:37 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 23 11:33:37 symfony [info] {sfWebDebugLogger} Configuration 194.27 ms (10)
+Mar 23 11:33:37 symfony [info] {sfWebDebugLogger} Factories 206.95 ms (1)
+Mar 23 11:33:37 symfony [info] {sfWebDebugLogger} Action "javaScript/index" 0.22 ms (1)
+Mar 23 11:33:37 symfony [info] {sfWebDebugLogger} View "Success" for "javaScript/index" 65.03 ms (1)
+Mar 23 11:33:37 symfony [info] {sfWebResponse} Send content (29568 o)
+Mar 23 11:34:22 symfony [info] {sfPatternRouting} Match route "default_index" (/:module) for /javaScript with parameters array (  'module' => 'javaScript',  'action' => 'index',)
+Mar 23 11:34:22 symfony [info] {sfFilterChain} Executing filter "sfRenderingFilter"
+Mar 23 11:34:22 symfony [info] {sfFilterChain} Executing filter "sfExecutionFilter"
+Mar 23 11:34:22 symfony [info] {javaScriptActions} Call "javaScriptActions->executeIndex()"
+Mar 23 11:34:22 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\modules/javaScript/templates/indexSuccess.php"
+Mar 23 11:34:22 symfony [info] {sfPHPView} Decorate content with "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Mar 23 11:34:22 symfony [info] {sfPHPView} Render "D:\xampp\htdocs\wwwTest\apps\frontend\templates/layout.php"
+Mar 23 11:34:22 symfony [info] {sfWebResponse} Send status "HTTP/1.1 200 OK"
+Mar 23 11:34:22 symfony [info] {sfWebResponse} Send header "Content-Type: text/html; charset=utf-8"
+Mar 23 11:34:22 symfony [info] {sfWebDebugLogger} Configuration 36.76 ms (9)
+Mar 23 11:34:22 symfony [info] {sfWebDebugLogger} Factories 110.45 ms (1)
+Mar 23 11:34:22 symfony [info] {sfWebDebugLogger} Action "javaScript/index" 0.21 ms (1)
+Mar 23 11:34:22 symfony [info] {sfWebDebugLogger} View "Success" for "javaScript/index" 72.00 ms (1)
+Mar 23 11:34:22 symfony [info] {sfWebResponse} Send content (29598 o)

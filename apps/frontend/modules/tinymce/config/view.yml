@@ -1,0 +1,5 @@
+indexSuccess:
+  has_layout: false
+  javascripts: [tiny_mce/tiny_mce.js]
+  stylesheets: [main.css]
+

@@ -1,0 +1,8 @@
+lytebox:
+  http_metas:
+    content-type: text/html
+
+  metas:
+  stylesheets:    [main.css, lytebox.css]
+  javascripts:    [lytebox.js]
+  has_layout:     off
