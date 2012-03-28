@@ -9,4 +9,4 @@
 <!-- wersja 3 -->
 <input type="button" value="DRUKUJ v.3" onclick="window.print();">
 
-kokookooo
+jjjgdf jh jgdfjh h
